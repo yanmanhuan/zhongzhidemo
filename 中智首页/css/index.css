@@ -1,0 +1,269 @@
+/*
+* @Author: 7560-1525
+* @Date:   2018-05-19 20:08:26
+* @Last Modified by:   7560-1525
+* @Last Modified time: 2018-05-23 10:05:13
+*/
+*{
+	padding: 0px;
+	margin: 0px;
+}
+ul li ol{
+	list-style-type: none;
+}
+a{
+	text-decoration: none;
+}
+.header{
+	text-align: center;
+	background: #f2f2f2;
+	height: 127px;
+}
+.header img{
+	padding-top: 33px;
+}
+.daohang{
+	width:1560px ;
+	height:46px ;
+	text-align: center;
+	background: #f2f2f2;
+}
+.daohang ul{
+	border-radius: 45px;
+	background: #ffffff;
+	width: 670px;
+	height: 45px;
+	margin: 0 auto;
+}
+.daohang ul li{
+	list-style-type: none;
+	float: left;
+	height: 45px;
+	padding: 0px 30px;
+	line-height: 45px;
+	background: url('../imges/line.png') no-repeat right center ;
+
+}
+.daohang li a{
+	display: block;
+	font-size: 14px;
+	height: 42px;
+	margin-bottom: 3px;
+	
+}
+.daohang li a:hover{
+	height: 42px;
+	color: #1e50ae;
+	border-bottom: 3px solid #1e50ae;
+}
+	
+
+.daohang li:last-child{
+	background: none;
+}
+.ccc{
+	height: 406px;
+	background: url("../imges/beijing_03.png") no-repeat center center;
+}
+.serve{
+	width: 1560px;
+	height: 811px;
+	margin: 0 auto;
+	margin-left: 116px;
+	margin-right: 158px;
+}
+.serve p{
+	text-align: center;
+	font-size: 34px;
+}
+.big{
+	float: left;
+	margin: 0 auto;
+	width: 1200px;
+	height: 397px;
+}
+.small1{
+	float: left;
+	width: 300px;
+	height: 397px;
+}
+.small1 img{
+	padding-left: 80px;
+}
+.small1 p{
+	font-size: 16px;
+	text-align: center;
+}
+.small1 ul{
+	padding-left: 132px;
+	font-size: 14px;
+	color: #c8c8c8;
+
+}
+.big2{
+	width: 1200px;
+	height: 245px;
+	float: left;
+}
+.small2{
+	float: left;
+	width: 300px;
+	height: 245px;
+}
+.small2 img{
+	padding-left: 80px;
+}
+.small2 p{
+	font-size: 16px;
+	text-align: center;
+}
+/*服务项目结束*/
+/*解决方案开始*/
+.sove{
+	width: 1560px;
+	height: 706px;
+	background: url("../imges/beitu.png") no-repeat ;
+}
+.sove h1{
+	color: #ffffff;
+	text-align: center;
+}
+.sove h2{
+	color: #ffffff;
+	text-align: center;
+}
+.zhaohe{
+	padding-top: 59px;
+	width: 1080px;
+	height: 309px;
+	margin: 0 auto;
+	padding-bottom: 80px;
+}
+.zhaohe img{
+	float: left;
+	padding-right: 50px;
+}
+.zhaohe img:last-child{
+	padding-right: 0px;
+}
+.sove table{
+	margin: 0 auto;
+	width: 237px;
+	height: 48px;
+	border: 3px solid; 
+	border-color: #ffffff;
+    border-radius: 54px;
+	font-size:20px ;
+	text-align: center;
+	line-height: 48px;
+	color: #ffffff;
+}
+/*解决方案结束*/
+/*最新资讯开始*/
+.zixun{
+	width: 1081px;
+	height: 878px;
+	margin: 0 auto;
+	padding-top: 30px;
+}
+.zixun h1{
+	text-align: center;
+}
+.zixun h2{
+	text-align: center;
+}
+
+.bigg{
+	float: left;
+	width: 1081px;
+	height: 709px;
+}
+.small3{
+	width: 521px;
+	height: 335px;
+	padding-right: 5px;
+	padding-top: 82px;
+	float: left;
+}
+.small3 img{
+	padding: 0px 0px 0px 0px;
+}
+.s111{
+	width: 140px;
+	height: 43px;
+	border: 3px solid; 
+	border-color: #1141a3;
+	border-radius: 43px;
+	font-size: 16px;
+	text-align: center;
+	line-height: 43px;
+	color: #1141a3;
+
+}
+.s222 td{
+	width: 504px;
+	height: 37px;
+	border-bottom: 1px dashed;
+	font-size: 14px;
+	color: #848484;
+}
+.s222 tr:last-child{
+	border-bottom: 0px;
+}
+/*最新资讯结束*/
+/*小灰块开始*/
+.huihui{
+	height: 110px;
+	background-color: #f5f5f5;
+}
+.huihui ul{
+	padding-left: 150px;
+	margin: 0 auto;
+	text-align: center;
+	display: block;
+}
+.huihui li{
+	display: inline;
+	float: left;
+}
+.huihui ul li img{
+	float: left;
+    margin: 28px;
+}
+/*小灰块结束*/
+/*小黑块开始*/
+.heihei{
+	height: 385px;
+	background: #323232;
+}
+.heihei1{
+	height: 260px;
+}
+.heiehi1 ul{
+	display: inline;
+	float: left;
+	padding-left: 100px;
+	padding-top: 30px;
+}
+.heihei1 ul li{
+	font-size:13px ;
+	color: #f1f1f1;
+	padding-left: 100px;  
+	padding-top: 35px;
+
+}
+.small4{
+	float: left;
+}
+.small4 img{
+	padding-top: 51px;
+	padding-left: 80px;
+}
+.small5{
+	width:1556px ;
+	height: 125px;
+	text-align: center;
+	margin-top: 45px;
+	margin-bottom: 45px;
+	margin-left: 207px;
+}
